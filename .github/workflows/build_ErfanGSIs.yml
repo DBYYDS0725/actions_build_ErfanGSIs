@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://miuiver.com/sagit-20-6-18/
+  ROM_URL: https://miuiver.com/gauguin-21-9-3/
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
