@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cx77pma6.v1d.szbdyd.com:9305/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu17/9.0.0.1/cn/20210831152241/e6aa7038/update.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/m2192/9.2.1.0/cn/20210917102830/91c61c86/update.zip
   ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
