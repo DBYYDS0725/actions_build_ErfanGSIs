@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/m2192/9.2.1.0/cn/20210917102830/91c61c86/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/22.1.19/miui_GAUGUINPRE_22.1.19_9878eac7e2_12.0.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
